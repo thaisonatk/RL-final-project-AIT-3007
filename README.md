@@ -25,6 +25,14 @@ Update: The final ~~stronger~~ agent is released, this agent is trained on selfp
 </p>
 In the above demo, the left side shows the blue agent competing against random red agents, while the right side displays a battle between two self-play agents. Blue agents can comfortably defeat random agents, showing their cabability toward untrained agents, but they struggle with the red ones, which are intentionally trained more, so that they can dominate blue ones. As before, you should evaluate your agents against the red agents.
 
+My blue agents with pretrained red left side and final_pretrained red right side
+
+<p align="center">
+<img src="assets/blue_pretrained.gif" width="300" alt="selfplay blue vs random" />
+  <img src="assets/blue_final_pretrained.gif" width="300" alt="selfplay combat" />
+</p>
+
+You can run this code on: [Training code](final_RL.ipynb)
 ## Installation
 clone this repo and install with
 ```
