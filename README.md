@@ -32,7 +32,7 @@ My blue agents with pretrained red left side and final_pretrained red right side
   <img src="assets/blue_final_pretrained.gif" width="300" alt="selfplay combat" />
 </p>
 
-You can run this code on: [Training code](final_RL.ipynb)
+**You can run this code on:** [Training code](https://colab.research.google.com/drive/1kEhByH-y8RqUf4QfWH_VcM19dDIRE_Hq?usp=sharing)
 ## Installation
 clone this repo and install with
 ```
